@@ -46,7 +46,7 @@ Tested with:
 
 <img width="1085" height="805" alt="image" src="https://github.com/user-attachments/assets/2a0c7ac0-8baa-42f4-80ed-c9905cbce11a" />
 
-- **Left** : screenshot from Andy's Brainbook video: https://www.youtube.com/watch?v=lSIi-aeZO5M ;
-- **Right** : second-level results produced by the current script. 
+- **Left**: screenshot from Andy's Brainbook video: https://www.youtube.com/watch?v=lSIi-aeZO5M;
+- **Right**: second-level results produced by the current script. 
 
 ---
