@@ -1,6 +1,6 @@
 # Preprocessing & First‑Level Analysis Scripts for the Flanker Task (SPM12)
 
-This repository provides a streamlined and highly readable pipeline for preprocessing and first‑level fMRI analysis of the **Flanker task dataset** from **OpenNeuro**  
+This project provides a streamlined and readable pipeline for preprocessing and first‑level fMRI analysis of the **Flanker task dataset** from **OpenNeuro**  
 (**ds000102**: https://openneuro.org/datasets/ds000102/versions/00001) using **SPM12**.
 
 The scripts are designed to reproduce the group‑level results demonstrated in  
@@ -42,11 +42,11 @@ Tested with:
 
 ---
 
-## Comparison with Andy's 2nd-level result
+## Reproduction of Andy's 2nd-level results
 
 <img width="1085" height="805" alt="image" src="https://github.com/user-attachments/assets/2a0c7ac0-8baa-42f4-80ed-c9905cbce11a" />
 
-- **Left**: screenshot from Andy's Brainbook video: https://www.youtube.com/watch?v=lSIi-aeZO5M;
+- **Left**: screenshot of Andy's second-level results from Andy's Brainbook video: https://www.youtube.com/watch?v=lSIi-aeZO5M;
 - **Right**: second-level results produced by the current script. 
 
 ---
