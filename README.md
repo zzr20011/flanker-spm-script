@@ -13,7 +13,7 @@ While following the same analytical logic, this repository adopts a distinct cod
 
 ## Motivation
 
-Andy’s original scripts are comprehensive and highly educational, but new users may find them difficult to read, modify, or adapt for flexible batch processing. This pipeline addresses those limitations by providing a cleaner and more modular scripting framework while preserving methodological consistency.
+Andy’s original scripts are comprehensive and highly educational, but new users may find them difficult to read, modify, or adapt for flexible batch processing. This pipeline addresses those limitations by providing a cleaner and more modular scripting framework while preserving methodological consistency. These scripts are primarily prepared for beginners who are following Andy's tutorial. 
 
 ---
 
